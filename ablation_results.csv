@@ -1,0 +1,5 @@
+Experiment,Blocks,Token Dimension,Parameters,Validation Accuracy,Test Accuracy,Test Loss
+Baseline,4,32,290314,79.92,80.2,0.6726280809203281
+Shallow_Mixer,2,32,149066,76.76,76.92,0.6987728344488747
+Wide_Token_MLP,4,64,306826,80.52,80.1,0.7306857690026488
+Narrow_Token_MLP,4,16,282058,79.8,79.54,0.7152802665022355
